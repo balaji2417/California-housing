@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Very Important!)
+.venv/
+venv/
+env/
+
+# PyCharm Settings
+.idea/
+
+# Mac System Files
+.DS_Store
+
+# Environment Variables (Secrets)
+.env
+
+# Trained Models (Optional: usually files >100MB are blocked by GitHub)
+*.pkl
+*.joblib
+
+The model space is around 129 m
