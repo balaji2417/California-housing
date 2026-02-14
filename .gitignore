@@ -20,4 +20,4 @@ env/
 *.pkl
 *.joblib
 
-The model space is around 129 m
+*.pkl
